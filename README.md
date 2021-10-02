@@ -12,7 +12,7 @@
  
 </ul>
 
-<p> I'm currently learning Python, R and SQL :beginner: for data analysis and processing, concentrating on Machine Learning ⚡. </p>
+
 
 <!--
 **leonardovazquez/leonardovazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
