@@ -7,7 +7,7 @@
   <li>:chart_with_downwards_trend: Análisis de datos: Mathworks (MATLAB), Visual Studio Code (Python) </li>
     <li>:floppy_disk: Microcontroladores: Assembler, C, C++ </li>
        <li> :keyboard: FPGA: Quartus II (Verilog, VHDL) </li>
-          <li>   :ballot_box: Circuitos electrónicos analógicos y digitales: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
+          <li>   :ballot_box: Circuitos electrónicos: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
            <li>:bookmark_tabs: Overleaf (LaTeX) </li>
  
 </ul>
