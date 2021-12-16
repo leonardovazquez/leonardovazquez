@@ -1,14 +1,14 @@
-<h1> Hi there 👋 </h1>
+<h1> ¡Hola! 👋 </h1>
 
-<p> :books: Electronic engineering student. Science enthusiast :man_technologist:.</p>
+<p> :books: Estudiante avanzado de Ingeniería Electrónica. Entusiasta de la ciencia y de las nuevas tecnologías :man_technologist:.</p>
 
-<h4>🧠 Skills:</h4>
+<h4>🧠 Habilidades principales:</h4>
 <ul>
-  <li>:chart_with_downwards_trend: MATLAB.</li>
-    <li>:floppy_disk: Microcontrollers: Assembler, C.</li>
-       <li> :keyboard: FPGA: Verilog, VHDL. </li>
-          <li>   :ballot_box: Analog and Digital Circuits: Protheus, LTSpice, Multisim. </li>
-          <li>:bookmark_tabs: LaTeX. </li>
+  <li>:chart_with_downwards_trend: Mathworks (MATLAB)</li>
+    <li>:floppy_disk: Microcontroladores: Asm, C, C++ li>
+       <li> :keyboard: FPGA: Quartus II (Verilog, VHDL) </li>
+          <li>   :ballot_box: Crcuitos electrónicos analógicos y digitales: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
+          <li>:bookmark_tabs: Overleaf (LaTeX) </li>
  
 </ul>
 
