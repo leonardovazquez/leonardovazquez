@@ -12,6 +12,11 @@
  
 </ul>
 
+<h4>📫 Contacto:</h4>
+<ul>
+  <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardodavid'> LinkedIn </a> </li>
+  <li>📜 <a href='https://drive.google.com/file/d/1-0-eK844mwfKRgnCxFYbQJfOPdD31ykq/view?usp=sharing'> CV </a> </li>
+</ul>
 
 
 <!--
