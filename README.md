@@ -10,6 +10,19 @@
           <li>   :ballot_box: Circuitos electrónicos: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
            <li>:bookmark_tabs: Overleaf (LaTeX) </li>
  
+</ul>  
+
+<h4>:mag_right: Intereses:</h4>
+ <li> :microscope: Sistemas embebidos </li>
+   <li> :radio: Radio definida por Software </li>
+    <li> :satellite: Sistemas de Comunicaciones Satelitales </li>
+     <li> :minidisc: Aplicaciones con FPGA </li>
+      <li> :bar_chart: Análisis y procesamiento de datos</li>
+       <li> :iphone:Internet de las Cosas </li>
+         <li> :lock: Ciberseguridad </li>           
+
+  
+  
 </ul>
 
 <h4>📫 Contacto:</h4>
