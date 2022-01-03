@@ -18,7 +18,7 @@
     <li> :satellite: Sistemas de Comunicaciones Satelitales </li>
      <li> :minidisc: Aplicaciones con FPGA </li>
       <li> :bar_chart: Análisis y procesamiento de datos</li>
-       <li> :iphone: Internet de las Cosas </li>
+       <li> :iphone:  Internet de las Cosas </li>
          <li> :lock: Ciberseguridad </li>           
 
   
