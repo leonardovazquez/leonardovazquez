@@ -28,7 +28,7 @@
 <h4>📫 Contacto:</h4>
 <ul>
   <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardodavid'> LinkedIn </a> </li>
-  <li>📜 <a href='https://github.com/leonardovazquez/Certificados/blob/febeef08424e3f5b8cd6005010ece1bca3e8ed61/CV%20VAZQUEZ-C%C3%93DIGO%20TEX/CV%20VAZQUEZ%20LEONARDO%20DAVID.pdf'> CV </a> </li>
+  <li>📜 <a href='https://github.com/leonardovazquez/Certificados/blob/4068a0ff9c98f96bda33c68891fb432955ba34d5/CV%20VAZQUEZ-C%C3%93DIGO%20TEX/CV%20-%20VAZQUEZ%20LEONARDO%20DAVID.pdf'> CV </a> </li>
 </ul>
 
 
