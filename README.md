@@ -1,7 +1,7 @@
 <h1> ¡Hola! 👋 </h1>
 
 <p> :books: Estudiante avanzado de Ingeniería Electrónica. Entusiasta de la ciencia y de las nuevas tecnologías :man_technologist:</p>
-<p> 🐍: En mis tiempos libres me dedico a desarrollar proyectos en <a href='https://github.com/leonardovazquez/Python'> Python </a>:</p>
+<p> 🐍 En mis tiempos libres me dedico a desarrollar proyectos en <a href='https://github.com/leonardovazquez/Python'> Python </a></p>
 
 <h4>🧠 Habilidades principales:</h4>
 <ul>
