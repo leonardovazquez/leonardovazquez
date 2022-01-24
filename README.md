@@ -1,32 +1,37 @@
-<h1> ¡Hola! 👋 </h1>
+<h1> Electronic Engineering Student  :books:</h1>
 
-<p> :books: Estudiante avanzado de Ingeniería Electrónica. Entusiasta de la ciencia y de las nuevas tecnologías :man_technologist:</p>
-<p> 🐍 En mis tiempos libres me dedico a desarrollar proyectos en <a href='https://github.com/leonardovazquez/Python'> Python </a></p>
+<p>  Assistant researcher at the Communications Laboratory(<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>). Science enthusiast. :man_technologist:</p>
 
-<h4>🧠 Habilidades principales:</h4>
+
+<h4>🧠 Core Skills:</h4>
 <ul>
-  <li>:chart_with_downwards_trend: Análisis de datos: Mathworks (MATLAB), Visual Studio Code, PyCharm (Python) </li>
-    <li>:floppy_disk: Microcontroladores: Assembler, C, C++ </li>
-       <li> :keyboard: FPGA: Quartus II (Verilog, VHDL) </li>
-          <li>   :ballot_box: Circuitos electrónicos: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
-           <li>:bookmark_tabs: Overleaf (LaTeX) </li>
+  <li>:chart_with_downwards_trend: Data Analysis: Mathworks (MATLAB), Visual Studio Code, PyCharm (Python) </li>
+    <li>:floppy_disk: Embedded systems: Arduino LEONARDO, SDR Adalm Pluto, FPGA simulators (Verilog, VHDL) </li>
+         <li>   :ballot_box: Electronic Circuit Simulators: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
+           <li>:bookmark_tabs: Papers: Overleaf (LaTeX) </li>
  
 </ul>  
 
 <h4>:mag_right: Intereses:</h4>
- <li> :microscope: Sistemas embebidos </li>
-   <li> :radio: Radio definida por Software </li>
-    <li> :satellite: Sistemas de Comunicaciones Satelitales </li>
-     <li> :minidisc: Aplicaciones con FPGA </li>
-      <li> :bar_chart: Análisis y procesamiento de datos</li>
-       <li> :iphone:  Internet de las Cosas </li>
-         <li> :lock: Ciberseguridad </li>           
-
-  
-  
+ <li> :microscope: Embedded systems </li>
+   <li> :radio: Software Defined Radio </li>
+    <li> :satellite: Satellite Communications Systems </li>
+     <li> :minidisc: FPGA Applications </li>
+      <li> :bar_chart: Data analysis and processing</li>
+       <li> :iphone:  Internet of Things </li>
+         <li> :lock: Cibersecurity </li>           
+ 
 </ul>
 
-<h4>📫 Contacto:</h4>
+<h4>📫 Languages:</h4>
+<ul>
+<li> :microscope: Spanish: Native)</li>
+   <li> :radio: English: Pre-Intermediate (A2)</li>
+    <li> :satellite: German: Starter (A1)</li>
+</ul>
+
+
+<h4>📫 Contact:</h4>
 <ul>
   <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardodavid'> LinkedIn </a> </li>
   <li>📜 <a href='https://github.com/leonardovazquez/Certificados/blob/4068a0ff9c98f96bda33c68891fb432955ba34d5/CV%20VAZQUEZ-C%C3%93DIGO%20TEX/CV%20-%20VAZQUEZ%20LEONARDO%20DAVID.pdf'> CV </a> </li>
