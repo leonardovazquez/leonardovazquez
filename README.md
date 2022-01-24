@@ -5,15 +5,15 @@
 
 <h4>🧠 Core Skills:</h4>
 <ul>
-  <li>:chart_with_downwards_trend: Data Analysis: Mathworks (MATLAB), Visual Studio Code, PyCharm (Python) </li>
+  <li>:chart_with_downwards_trend: Data analysis: Mathworks (MATLAB), Visual Studio Code, PyCharm (Python) </li>
     <li>:floppy_disk: Embedded systems: Arduino LEONARDO, SDR Adalm Pluto, FPGA simulators (Verilog, VHDL) </li>
-         <li>   :ballot_box: Electronic Circuit Simulators: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
+         <li>   :ballot_box: Electronic circuit simulators: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
            <li>:bookmark_tabs: Papers: Overleaf (LaTeX) </li>
  
 </ul>  
 
 <h4>:mag_right: Intereses:</h4>
- <li> :microscope: Embedded systems </li>
+ <li> :microscope: Embedded Systems </li>
    <li> :radio: Software Defined Radio </li>
     <li> :satellite: Satellite Communications Systems </li>
      <li> :minidisc: FPGA Applications </li>
@@ -23,11 +23,11 @@
  
 </ul>
 
-<h4>📫 Languages:</h4>
+<h4>:world: Languages:</h4>
 <ul>
-<li> :microscope: Spanish: Native)</li>
-   <li> :radio: English: Pre-Intermediate (A2)</li>
-    <li> :satellite: German: Starter (A1)</li>
+<li> :argentina: Spanish: Native</li>
+   <li> :eeuu: English: Pre-Intermediate (A2)</li>
+    <li> :germany: German: Starter (A1)</li>
 </ul>
 
 
