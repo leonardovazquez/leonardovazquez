@@ -1,6 +1,6 @@
 <h1> Electronic Engineering Student  :books: </h1>
 
-<p>  Assistant researcher at the Communications Laboratory(<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>). Science enthusiast. :man_technologist:</p>
+<p>  Assistant researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>). Science enthusiast. :man_technologist:</p>
 
 
 <h4>🧠 Core Skills:</h4>
@@ -25,16 +25,16 @@
 
 <h4>:globe_with_meridians: Languages:</h4>
 <ul>
-<li> -Spanish: Native</li>
-   <li> -English: Pre-Intermediate (A2)</li>
-    <li> -German: Starter (A1)</li>
+<li> Spanish: Native</li>
+   <li> English: Pre-Intermediate (A2)</li>
+    <li> German: Starter (A1)</li>
 </ul>
 
 
 <h4>📫 Contact:</h4>
 <ul>
   <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardodavid'> LinkedIn </a> </li>
-  <li>📜 <a href='https://github.com/leonardovazquez/Certificados/blob/4068a0ff9c98f96bda33c68891fb432955ba34d5/CV%20VAZQUEZ-C%C3%93DIGO%20TEX/CV%20-%20VAZQUEZ%20LEONARDO%20DAVID.pdf'> CV </a> </li>
+  <li>📜 <a href='https://github.com/leonardovazquez/Certificados/tree/main/CV%20VAZQUEZ-C%C3%93DIGO%20TEX'> CV </a> </li>
 </ul>
 
 
