@@ -1,7 +1,7 @@
 <h1> Electronic Engineering Student  :books: </h1>
 
 <p>  Assistant researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>)</p>
-<p>  Science enthusiast. :man_technologist:</p>
+<p>  Science enthusiast :man_technologist:</p>
 
 
 <h4>🧠 Core Skills:</h4>
