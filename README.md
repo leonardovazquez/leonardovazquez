@@ -1,4 +1,4 @@
-<h1> Electronic Engineering Student  :books:</h1>
+<h1> Electronic Engineering Student  :books: :electron:</h1>
 
 <p>  Assistant researcher at the Communications Laboratory(<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>). Science enthusiast. :man_technologist:</p>
 
@@ -23,11 +23,11 @@
  
 </ul>
 
-<h4>:world: Languages:</h4>
+<h4>:globe_with_meridians: Languages:</h4>
 <ul>
-<li> :argentina: Spanish: Native</li>
-   <li> :eeuu: English: Pre-Intermediate (A2)</li>
-    <li> :germany: German: Starter (A1)</li>
+<li> -Spanish: Native</li>
+   <li> -English: Pre-Intermediate (A2)</li>
+    <li> -German: Starter (A1)</li>
 </ul>
 
 
