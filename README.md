@@ -1,4 +1,4 @@
-<h1> Electronic Engineering Student  :books: :electron:</h1>
+<h1> Electronic Engineering Student  :books: </h1>
 
 <p>  Assistant researcher at the Communications Laboratory(<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>). Science enthusiast. :man_technologist:</p>
 
