@@ -13,7 +13,7 @@
  
 </ul>  
 
-<h4>:mag_right: Intereses:</h4>
+<h4>:mag_right: Interests:</h4>
  <li> :microscope: Embedded Systems </li>
    <li> :radio: Software Defined Radio </li>
     <li> :satellite: Satellite Communications Systems </li>
