@@ -39,7 +39,7 @@
 <ul>
   
    <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardodavid'> LinkedIn </a> </li>
-   <li>📜 <a href='https://github.com/leonardovazquez/Certificados/blob/71dadb92cbf1275130a1edd52da7cdc36763f190/CV%20VAZQUEZ-C%C3%93DIGO%20TEX/CV%20VAZQUEZ%20LEONARDO%20DAVID.pdf'> CV </a> </li>
+   <li>📜 <a href='https://github.com/leonardovazquez/Certificados/blob/0ed48802432f576eaacf0d41f0dc96d9d4572584/CV%20-%20VAZQUEZ%20LEONARDO%20DAVID.pdf'> CV </a> </li>
   
 </ul>
 
