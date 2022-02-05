@@ -30,8 +30,8 @@
 
 <ul>
     <li> Spanish: Native</li>
-    <li> English: Pre-Intermediate (A2)</li>
-    <li> German: Starter (A1)</li>  
+    <li> English: Upper-Intermediate </li>
+    <li> German: Beginner</li>  
 </ul>
 
 <h4>📫 Contact:</h4>
