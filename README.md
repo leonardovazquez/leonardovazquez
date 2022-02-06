@@ -11,6 +11,7 @@
     <li>  :floppy_disk: Embedded systems: Arduino LEONARDO, SDR Adalm Pluto, FPGA simulators (Verilog, VHDL) </li>
     <li>  :ballot_box: Electronic circuit simulators: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
     <li>  :bookmark_tabs: Papers: Overleaf, Texworks (LaTeX) </li>
+    <li>  :computer: Operating systems: Windows 10, Ubuntu 20.04 Linux </li>
  
 </ul>  
 
