@@ -12,6 +12,8 @@
     <li>  :ballot_box: Electronic circuit simulators: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
     <li>  :computer: Operating systems: Windows 10, Ubuntu 20.04 Linux </li>
     <li>  :bookmark_tabs: Papers: Overleaf, Texworks (LaTeX) </li>
+    <li>  :desktop_computer: Web Development: HTML, CSS </li>
+    
     
  
 </ul>  
