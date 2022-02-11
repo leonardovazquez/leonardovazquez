@@ -1,34 +1,55 @@
-<h1> Electronic Engineering Student  :books: </h1>
+<h1> Electronic Engineering Student  :books: :man_technologist: </h1>
 
-<p>  Assistant researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>)</p>
-<p>  Science enthusiast :man_technologist:</p>
+<p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina :argentina:. Currently, I'm an Assistant Researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>) and I am also starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices.</p>
+<p> When I'm Bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, among others. I am also learning :seedling: about web development with the Django framework.</p>
 
 
-<h4>🧠 Core Skills:</h4>
+<h3> Tools and Interests: </h3>
 
-<ul>
-    <li>  :chart_with_downwards_trend: Data analysis: SciLab, Mathworks (MATLAB); VSC, PyCharm, Jupyter (Python) </li>
-    <li>  :floppy_disk: Embedded systems: Arduino LEONARDO, SDR Adalm Pluto, FPGA simulators (Verilog, VHDL) </li>
-    <li>  :ballot_box: Electronic circuit simulators: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
-    <li>  :computer: Operating systems: Windows 10, Ubuntu 20.04 Linux </li>
-    <li>  :bookmark_tabs: Papers: Overleaf, Texworks (LaTeX) </li>
-    <li>  :desktop_computer: Web Development: HTML, CSS, Django (Python) </li>
-    
-    
- 
+<ul style="list-style: none;">
+      <h4> :bar_chart:  Data Science:  </h4>  
+             <ul> 
+                 <li>Jupyter, Pycharm, Visual Studio Code (Python)  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="25" height="25"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> </li>                  
+                 <li>Mathworks (MATLAB)  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25"/> </a>   </li>
+                 <li>Scilab</li> 
+             </ul>
+      <h4>  :satellite: Communications systems: </h4>
+             <ul> 
+                 <li>GNU-Radio (Python)</li>
+                 <li>Adalm Pluto SDR </li>
+             </ul>
+       </h4>
+      <h4> :floppy_disk: Embedded systems & IoT: </h4> 
+            <ul> 
+                 <li>Arduino <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="25" height="25"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> </a></li>
+                 <li>Quartus II FPGA simulator (Verilog, VHDL)  </li>
+             </ul>
+     </h4>
+      <h4>  :ballot_box: Electronic circuit simulators: </h4>
+             <ul> 
+                 <li>Protheus 8</li>
+                 <li>LTSpice XVII </li>
+                 <li>Altium Designer</li>
+             </ul>
+      <h4>  :computer: Operating systems: </h4>
+             <ul> 
+                 <li>Windows 10</li>
+                 <li>Ubuntu 20.04 Linux    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a></li>
+              </ul>
+      <h4>  :bookmark_tabs: Papers: </h4>
+                <ul> 
+                    <li>Overleaf, Texworks (LaTeX)</li>
+              </ul>
+        </h4>           
+      <h4>  :desktop_computer: Web development: </h4>
+           <ul> 
+               <li>HTML <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a></li>
+               <li>CSS <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a></li>
+               <li>Django <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25"/> </a>     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/> </a> </li>
+              </ul>
 </ul>  
-
-<h4>:mag_right: Interests: </h4>
-
-<ul>
-    <li> :microscope: Embedded Systems </li>
-    <li> :radio: Software Defined Radio </li>
-    <li> :satellite: Satellite Communications Systems </li>
-    <li> :minidisc: FPGA Applications </li>
-    <li> :bar_chart: Data analysis and processing</li>
-    <li> :iphone:  Internet of Things </li>
-    <li> :lock: Cibersecurity </li>           
-</ul>
 
 <h4>:globe_with_meridians: Languages:</h4>
 
@@ -46,4 +67,5 @@
    <li>📜 <a href='https://drive.google.com/file/d/1CjrP42vcxK1hzuBjJT0ZNlkoWcv-DUcE/view?usp=sharing'> CV (Spanish) </a> </li>
   
 </ul>
+</p>
 
