@@ -7,12 +7,12 @@
 <h4>🧠 Core Skills:</h4>
 
 <ul>
-    <li>  :chart_with_downwards_trend: Data analysis: Mathworks (MATLAB), Visual Studio Code, PyCharm, Jupyter (Python) </li>
+    <li>  :chart_with_downwards_trend: Data analysis: SciLab, Mathworks (MATLAB); VSC, PyCharm, Jupyter (Python) </li>
     <li>  :floppy_disk: Embedded systems: Arduino LEONARDO, SDR Adalm Pluto, FPGA simulators (Verilog, VHDL) </li>
     <li>  :ballot_box: Electronic circuit simulators: Protheus 8, LTSpice XVII, Multisim, Altium Designer </li>
     <li>  :computer: Operating systems: Windows 10, Ubuntu 20.04 Linux </li>
     <li>  :bookmark_tabs: Papers: Overleaf, Texworks (LaTeX) </li>
-    <li>  :desktop_computer: Web Development: HTML, CSS </li>
+    <li>  :desktop_computer: Web Development: HTML, CSS, Django (Python) </li>
     
     
  
