@@ -29,6 +29,7 @@
              <ul> 
                  <li>Protheus 8</li>
                  <li>LTSpice XVII </li>
+                 <li>KiCad </li>
                  <li>Altium Designer</li>
              </ul>
       <h4>  :computer: Operating systems: </h4>
