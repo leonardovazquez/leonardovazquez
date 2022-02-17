@@ -1,7 +1,7 @@
 <h1> Electronic Engineering Student  :books: :man_technologist: </h1>
 
 <p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina :argentina:. Currently, I'm an Assistant Researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>) and I am also starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices.</p>
-<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, among others. I am also learning :seedling: about web development with the Django framework.</p>
+<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, among others. 
 
 
 <h3> Tools and Interests: </h3>
@@ -46,8 +46,7 @@
            <ul> 
                <li>HTML </li>
                <li>CSS </li>
-               <li>Django </li>
-              </ul>
+          </ul>
 </ul>  
 
 <h4>:globe_with_meridians: Languages:</h4>
@@ -81,7 +80,7 @@
       <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
+     
 
        
 </p>
