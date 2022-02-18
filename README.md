@@ -21,7 +21,7 @@
        </h4>
       <h4> :floppy_disk: Embedded systems & IoT: </h4> 
             <ul> 
-                 <li>Arduino </li>
+                 <li>Arduino IDE</li>
                  <li>Quartus II FPGA simulator (Verilog, VHDL)  </li>
              </ul>
      </h4>
@@ -29,6 +29,7 @@
              <ul> 
                  <li>Protheus 8</li>
                  <li>LTSpice XVII </li>
+                 <li>Multisim NI </li>
                  <li>KiCad </li>
                  <li>Altium Designer</li>
              </ul>
