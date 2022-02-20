@@ -62,7 +62,7 @@
 <ul>
   
    <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardo'> LinkedIn </a> </li>
-   <li>📜 <a href='https://drive.google.com/file/d/1CjrP42vcxK1hzuBjJT0ZNlkoWcv-DUcE/view?usp=sharing'> CV (Spanish) </a> </li>
+   <li>📜 <a href='https://drive.google.com/file/d/1Zwtr0PzLhLAq4XPLuVJySUobQwC9xIZJ/view?usp=sharing'> CV (Spanish) </a> </li>
   
 </ul>
 
