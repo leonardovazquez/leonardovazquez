@@ -31,8 +31,7 @@
                  <li>LTSpice XVII </li>
                  <li>Multisim NI </li>
                  <li>KiCad </li>
-                 <li>Altium Designer</li>
-             </ul>
+            </ul>
       <h4>  :computer: Operating systems: </h4>
              <ul> 
                  <li>Windows 10</li>
