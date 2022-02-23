@@ -1,7 +1,7 @@
 <h1> Electronic Engineering Student  :books: :man_technologist: </h1>
 
 <p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina :argentina:. Currently, I'm an Assistant Researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>) and I am also starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices.</p>
-<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, among others. 
+<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, Folium, among others. 
 
 
 <h3> Tools and Interests: </h3>
