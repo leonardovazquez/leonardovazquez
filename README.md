@@ -1,7 +1,7 @@
 <h1> Electronic Engineering Student  :books: :man_technologist: </h1>
 
-<p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina :argentina:. Currently, I'm an Assistant Researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>) and I am also starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices.</p>
-<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, Folium, among others. You can see some projects developed by me <a href="https://github.com/leonardovazquez/Python">here</a>.
+<p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina :argentina:. Currently, I'm an Assistant Researcher at the Communications Laboratory (<a href='https://icyte.conicet.gov.ar/'> ICYTE </a>) and I am also starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices. You can see some college reports <a href="https://github.com/leonardovazquez/Electronics">here</a>.</p>
+<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, Folium, Tkinter, among others. You can see some projects developed by me <a href="https://github.com/leonardovazquez/Python">here</a>.
 
 
 <h3> Tools and Interests: </h3>
@@ -15,8 +15,8 @@
              </ul>
       <h4>  :satellite: Communications systems: </h4>
              <ul> 
-                 <li>GNU-Radio (Python)</li>
                  <li>Adalm Pluto SDR </li>
+                 <li>GNU-Radio (Python)</li>
              </ul>
        </h4>
       <h4> :floppy_disk: Embedded systems & IoT: </h4> 
@@ -27,16 +27,16 @@
      </h4>
       <h4>  :ballot_box: Electronic circuit simulators: </h4>
              <ul> 
-                 <li>Protheus 8</li>
                  <li>LTSpice XVII </li>
-                 <li>Multisim NI </li>
                  <li>KiCad </li>
-            </ul>
+                 <li>Multisim NI </li>
+                 <li>Protheus 8</li>
+             </ul>
       <h4>  :computer: Operating systems: </h4>
              <ul> 
-                 <li>Windows 10</li>
                  <li>Ubuntu 20.04 Linux    </li>
-              </ul>
+                 <li>Windows 10</li>
+             </ul>
       <h4>  :bookmark_tabs: Papers: </h4>
                 <ul> 
                     <li>Overleaf, Texworks (LaTeX)</li>
@@ -53,8 +53,8 @@
 
 <ul>
     <li> Spanish: Native</li>
-    <li> English: Upper-Intermediate </li>
-    <li> German: Beginner</li>  
+    <li> English: Upper-Intermediate B2</li>
+    <li> German: Beginner A1</li>  
 </ul>
 
 <h4>📫 Contact:</h4>
