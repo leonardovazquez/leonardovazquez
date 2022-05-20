@@ -1,61 +1,10 @@
 <h1> Electronic Engineering Student  :books: :man_technologist: </h1>
 
 <p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina :argentina:. Currently, I'm starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices. You can see some college reports <a href="https://github.com/leonardovazquez/Electronics">here</a>.</p>
-<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, Folium, Tkinter, among others. You can see some projects developed by me <a href="https://github.com/leonardovazquez/Python">here</a>.
+<p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, Folium, Tkinter, among others.
 
 
-<h3> Tools and Interests: </h3>
 
-<ul style="list-style: none;">
-      <h4> :bar_chart:  Data Science:  </h4>  
-             <ul> 
-                 <li>Jupyter, Pycharm, Visual Studio Code (Python)  </li>                  
-                 <li>Mathworks (MATLAB)    </li>
-                 <li>Scilab</li> 
-             </ul>
-      <h4>  :satellite: Communications systems: </h4>
-             <ul> 
-                 <li>Adalm Pluto SDR </li>
-                 <li>GNU-Radio (Python)</li>
-             </ul>
-       </h4>
-      <h4> :floppy_disk: Embedded systems & IoT: </h4> 
-            <ul> 
-                 <li>Arduino IDE</li>
-                 <li>Quartus II FPGA simulator (Verilog, VHDL)  </li>
-             </ul>
-     </h4>
-      <h4>  :ballot_box: Electronic circuit simulators: </h4>
-             <ul> 
-                 <li>LTSpice XVII </li>
-                 <li>KiCad </li>
-                 <li>Multisim NI </li>
-                 <li>Protheus 8</li>
-             </ul>
-      <h4>  :computer: Operating systems: </h4>
-             <ul> 
-                 <li>Ubuntu 20.04 Linux    </li>
-                 <li>Windows 10</li>
-             </ul>
-      <h4>  :bookmark_tabs: Papers: </h4>
-                <ul> 
-                    <li>Overleaf, Texworks (LaTeX)</li>
-              </ul>
-        </h4>           
-      <h4>  :desktop_computer: Web development: </h4>
-           <ul> 
-               <li>HTML </li>
-               <li>CSS </li>
-          </ul>
-</ul>  
-
-<h4>:globe_with_meridians: Languages:</h4>
-
-<ul>
-    <li> Spanish: Native</li>
-    <li> English: Upper-Intermediate B2</li>
-    <li> German: Beginner A1</li>  
-</ul>
 
 <h4>📫 Contact:</h4>
 
