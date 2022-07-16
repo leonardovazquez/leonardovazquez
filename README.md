@@ -1,6 +1,6 @@
 <h1> Electronic Engineering Student  :books: :man_technologist: </h1>
 
-<p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina :argentina:. Currently, I'm starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices. You can see some college reports <a href="https://github.com/leonardovazquez/Electronics">here</a>.</p>
+<p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina. Currently, I'm starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices. You can see some college reports <a href="https://github.com/leonardovazquez/Electronics">here</a>.</p>
 <p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, Folium, Tkinter, among others.
 
 
