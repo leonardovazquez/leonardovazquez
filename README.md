@@ -1,20 +1,13 @@
 <h1> Electronic Engineering Student  :books: :man_technologist: </h1>
 
-<p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina. Currently, I'm starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices. You can see some college reports <a href="https://github.com/leonardovazquez/Electronics">here</a>.</p>
+<p>  I'm an Electronic Engineering Student at the National University of Mar del Plata, Argentina. Currently, I'm starting my thesis: a Satellite Telemetry Receiving System :artificial_satellite: using Open-source Software and SDR receiving devices, focused on Iot. You can see some college reports <a href="https://github.com/leonardovazquez/Electronics">here</a>.</p>
 <p> When I'm bored, I code mainly in Python :snake:. I program in the Jupyter and Pycharm IDEs, and the Visual Studio Code editor. I use libraries such as Pandas, Seaborn, Numpy, Matplotlib, Folium, Tkinter, among others.
 
-
-
-
 <h4>📫 Contact:</h4>
-
 <ul>
-  
    <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardo'> LinkedIn </a> </li>
    <li>📜 <a href='https://drive.google.com/file/d/1-DXFZXYGhLAABTmhv_-SOAheZ8sCo7Ev/view?usp=sharing'> CV (Spanish) </a> </li>
-  
 </ul>
-
 
 <p align="center"> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"alt="python" width="40" height="40"/> </a> 
@@ -29,7 +22,6 @@
       <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a>
-     
-
-       
+       <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bluetooth/bluetooth-icon.svg" alt="bluetooth" width="40" height="40"/> </a>
+     <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 </p>
