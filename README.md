@@ -6,7 +6,7 @@
 <h4>📫 Contact:</h4>
 <ul>
    <li>📧 <a href='https://www.linkedin.com/in/vazquezleonardo'> LinkedIn </a> </li>
-   <li>📜 <a href='https://drive.google.com/file/d/1zzw9wnosRgEcuj4XJkDZZk6ZttBcKP35/view?usp=sharing'> CV (Spanish) </a> </li>
+   <li>📜 <a href='https://drive.google.com/file/d/14aeWzSHniX1w390go51oLQEXVuydSc1K/view?usp=sharing'> CV (Spanish) </a> </li>
 </ul>
 
 <p align="center"> 
